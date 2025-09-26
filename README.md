@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! I'm Jairo Guetes, a Systems Engineering Student 👋
 
-<!--
-**jairoguetes/jairoguetes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💻 Mainframe Programming & Logical Problem-Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **COBOL enthusiast** fascinated by the stable, high-performance technology that powers the world's most critical systems. My approach to development is rooted in **logical problem-solving** and a dedication to **structured, reliable code**.
+
+---
+
+### My Current Focus & Certified Toolkit
+
+| **✅ Certified Skills** | I hold IBM/Coursera certifications in **Mainframe Development** and **z/OS Mainframe Practitioning**. |
+| **📍 Location** | **Iowa City, IA**. |
+| **🎯 Goal** | To apply my certified **COBOL** knowledge to real-world projects and contribute to mission-critical systems. |
+
+---
+
+### Connect with Me
+
+* **📧 Email:** *jairojrguetes@gmail.com*
+* **🔗 LinkedIn:** *https://www.linkedin.com/in/jairo-guetes-21b362294/*
